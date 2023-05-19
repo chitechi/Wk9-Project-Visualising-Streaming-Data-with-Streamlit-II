@@ -3,8 +3,6 @@ SBS Data Engineering Project on streaming with Streamlit.
 
 # Telecom Fraud Visualization Dashboard
 
-![Telecom Fraud Visualization Dashboard](dashboard_screenshot.png)
-
 ## Introduction
 The Telecom Fraud Visualization Dashboard is a real-time data visualization tool built using Streamlit, Python, and the Reddit API. The goal of this project is to analyze streaming data from Reddit to identify fraud in the telecommunications industry. The dashboard collects real-time posts related to telecom fraud from Reddit, processes the data, and visualizes it in an interactive dashboard.
 
